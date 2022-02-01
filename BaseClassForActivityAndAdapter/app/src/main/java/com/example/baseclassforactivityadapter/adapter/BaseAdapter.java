@@ -19,7 +19,7 @@ public class BaseAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> i
     public void onBindViewHolder(@NonNull RecyclerView.ViewHolder holder, int position) {
 
     }
-
+//count
     @Override
     public int getItemCount() {
         return 0;
