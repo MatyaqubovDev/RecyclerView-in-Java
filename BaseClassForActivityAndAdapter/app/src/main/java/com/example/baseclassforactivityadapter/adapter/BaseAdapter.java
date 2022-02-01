@@ -26,7 +26,7 @@ public class BaseAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> i
     }
 
 
-    //Method
+    //Method server olish
     protected String getServer(){
         if (IS_TESTER){
             return SERVER_DEVELOPMENT;
